@@ -1,0 +1,12 @@
+name: property
+channels:
+    - pyviz
+    - conda-forge
+dependencies:
+    - python=3.8
+    - holoviz=0.11.*
+    - statsmodels=0.12.*
+    - scikit-learn=0.23.*
+    - pyarrow=1.0.*
+    - black=19.10b0
+    - notebook=6.0.*
